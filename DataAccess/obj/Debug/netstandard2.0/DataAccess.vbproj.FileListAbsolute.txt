@@ -1,0 +1,9 @@
+D:\dotnetcore\coreprojecr2\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\dotnetcore\coreprojecr2\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.vbprojAssemblyReference.cache
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.vb
+D:\dotnetcore\coreprojecr2\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.vbproj.CoreCompileInputs.cache
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\dotnetcore\coreprojecr2\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
